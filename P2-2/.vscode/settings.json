@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "ios": "cpp",
+        "new": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "filesystem": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

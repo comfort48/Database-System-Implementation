@@ -1,0 +1,15 @@
+4
+s_n1_c_n2#60000000
+customer#150000
+supplier#10000
+nation#25
+9
+s_n1_c_n2 c.c_custkey 150000
+s_n1_c_n2 n2.n_nationkey 25
+s_n1_c_n2 c.c_nationkey 25
+s_n1_c_n2 n1.n_nationkey 25
+s_n1_c_n2 s.s_nationkey 25
+customer c_nationkey 25
+customer c_custkey 150000
+supplier s_nationkey 25
+nation n_nationkey 25
